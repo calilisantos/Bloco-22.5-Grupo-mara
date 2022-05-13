@@ -1,0 +1,1 @@
+1. pq o uso do express.Router() e através de outra const;
